@@ -1,3 +1,9 @@
+@font-face{  
+      font-family: "Pudelinka"
+      src: url("Fonts/pudelinka.ttf") format('truetype');
+      font-weight: normal;
+      font-style: normal;
+}
 body{
       background-color: #d2b48c
       margin-left: 20%
@@ -11,4 +17,10 @@ body{
        border-left: 4px solid #8BOOOO;
        font-style: italic;
 
+}
+@font-face{
+      font-family: "Pudelinka"
+      src: url("Fonts/pudelinka.ttf") format('truetype');
+      font-weight: normal;
+      font-style: normal;
 }
